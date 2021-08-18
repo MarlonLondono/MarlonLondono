@@ -3,9 +3,9 @@
 
 - 🔭 Actualmente estoy trabajando en ** consultanceSpace **
 
-- 🌱 I Actualmente
+- 🌱 I Actualmente estoy aprendiendo ** Firebase ** 
 
-estoy aprendiendo ** Firebase ** - 📫 Cómo comunicarse conmigo **rudita.2001.258@gmail.com**
+- 📫 Cómo comunicarse conmigo **rudita.2001.258@gmail.com**
 
 - ⚡ Dato curioso ** Siempre intento ayudar, y ser bueno **
 
