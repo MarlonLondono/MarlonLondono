@@ -18,7 +18,5 @@ Habilidades: <p align="left"> <a href="https://getbootstrap.com" target="_blank"
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonLondono)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarlonLondono&show_icons=true&count_private=true)  
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MarlonLondono)  
 
